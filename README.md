@@ -23,7 +23,8 @@ Zynora provides a simple interface where students can enter their questions and 
 
 ### 📸 Application Preview
 
-Add your Zynora application screenshot here.
+<img width="1046" height="632" alt="image" src="https://github.com/user-attachments/assets/6f72273b-90ff-4d13-9064-f4824fdb832d" />
+
 
 ## 🛠️ Technologies Used
 
