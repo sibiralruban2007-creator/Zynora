@@ -1,4 +1,4 @@
-# ✨ Zynora
+#  Zynora
 
 ## An AI-Powered Student Assistant using Hugging Face and Streamlit
 
@@ -6,18 +6,18 @@
 
 The application uses a Hugging Face transformer model and Streamlit to provide a simple and interactive AI interface.
 
-## 🚀 Features
+##  Features
 
-* 💬 Ask questions using natural language
-* 🤖 Generate AI-powered responses
-* 📚 Study assistance
-* 🐍 Python programming help
-* 🧠 Artificial Intelligence concepts
-* 💡 Project-related assistance
-* 🎓 Academic question support
-* 🌐 Simple and interactive Streamlit interface
+*  Ask questions using natural language
+*  Generate AI-powered responses
+* Study assistance
+*  Python programming help
+* Artificial Intelligence concepts
+*  Project-related assistance
+*  Academic question support
+* Simple and interactive Streamlit interface
 
-## 🖥️ Application Output
+##  Application Output
 
 Zynora provides a simple interface where students can enter their questions and receive AI-generated responses.
 
@@ -34,7 +34,7 @@ Zynora provides a simple interface where students can enter their questions and 
 * PyTorch
 * Hugging Face SmolLM2
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Zynora/
@@ -44,7 +44,7 @@ Zynora/
 └── README.md
 ```
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone the Repository
 
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 💻 How It Works
+##  How It Works
 
 1. The user enters a question in the input box.
 2. Zynora receives the user's question.
@@ -78,21 +78,21 @@ streamlit run app.py
 4. The model generates a response.
 5. The response is displayed through the Streamlit interface.
 
-## 🎯 Project Objective
+## Project Objective
 
 The main objective of **Zynora** is to provide students with a simple and accessible AI-based assistant that supports learning, programming, academic activities, and project development.
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
-* 💬 Chat history
-* 🎤 Voice-based interaction
-* 🌐 Multiple language support
-* 🧠 Improved conversational memory
-* 🤖 Integration with advanced AI models
-* 📄 Document-based question answering
-* 🚀 Deployment as a public web application
+*  Chat history
+*  Voice-based interaction
+*  Multiple language support
+*  Improved conversational memory
+*  Integration with advanced AI models
+* Document-based question answering
+*  Deployment as a public web application
 
-## 👩‍💻 Developed By
+##  Developed By
 Sibiral Ruban
 
 ### Project: Zynora
@@ -103,6 +103,6 @@ Sibiral Ruban
 
 ### AI Platform: Hugging Face
 
-## 📌 Tagline
+##  Tagline
 
-Learn. Explore. Create.✨
+Learn. Explore. Create.
