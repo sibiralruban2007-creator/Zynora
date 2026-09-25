@@ -3,11 +3,11 @@ from transformers import pipeline
 
 st.set_page_config(
     page_title="Zynora",
-    page_icon="✨",
+    page_icon="",
     layout="centered"
 )
 
-st.title("✨ Zynora")
+st.title(" Zynora")
 st.subheader("Your AI-Powered Student Assistant")
 st.write("Learn. Explore. Create.")
 
@@ -26,9 +26,9 @@ question = st.text_area(
     placeholder="Type your question here..."
 )
 
-if st.button("Generate Response ✨"):
+if st.button("Generate Response "):
     if question:
-        with st.spinner("Zynora is thinking... 🤔"):
+        with st.spinner("Zynora is thinking... "):
             response = generator(
                 question,
                 max_new_tokens=100,
@@ -36,10 +36,10 @@ if st.button("Generate Response ✨"):
                 temperature=0.7
             )
 
-            st.subheader("🤖 Zynora's Response")
+            st.subheader(" Zynora's Response")
             st.write(response[0]["generated_text"])
     else:
         st.warning("Please enter a question first!")
 
 st.markdown("---")
-st.caption("✨ Zynora | Learn. Explore. Create.")
+st.caption(" Zynora | Learn. Explore. Create.")
